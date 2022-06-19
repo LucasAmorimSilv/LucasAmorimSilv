@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LucasAmorimSilv
-    I'm Lucas, a growing Dev, Mechatronics technician and a student of Software Engineering.
+- 👋 Hi, I’m Lucas, a growing Dev, Mechatronics technician and a student of Software Engineering.
 
 My studies have brought me a new perspective on how important programming is in our lives, and with that I decided to upgrade my career.
   
