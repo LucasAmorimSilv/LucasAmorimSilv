@@ -15,9 +15,9 @@ My studies have brought me a new perspective on how important programming is in 
      I wanto to become a Dev, and work with codding!
      
 - 📫 How to reach me
-     lucasamorim.prof@outlook.com
-     tel:+55 11 94973 8151
-     https://linkedin.com/in/https://www.linkedin.com/in/lucas-amorim-silva
+    - lucasamorim.prof@outlook.com
+    - tel:+55 11 94973 8151
+    - https://linkedin.com/in/https://www.linkedin.com/in/lucas-amorim-silva
      
 
 <!---
