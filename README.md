@@ -18,7 +18,7 @@ My studies have brought me a new perspective on how important programming is in 
      lucasamorim.prof@outlook.com
      tel:+55 11 94973 8151
      https://linkedin.com/in/https://www.linkedin.com/in/lucas-amorim-silva
-     https://www.overleaf.com/read/bzpjtcxfrjds
+     
 
 <!---
 LucasAmorimSilv/LucasAmorimSilv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
