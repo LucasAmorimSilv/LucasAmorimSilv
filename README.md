@@ -17,7 +17,7 @@ My studies have brought me a new perspective on how important programming is in 
 - 📫 How to reach me
     - lucasamorim.prof@outlook.com
     - tel:+55 11 94973 8151
-    - https://linkedin.com/in/https://www.linkedin.com/in/lucas-amorim-silva
+    - www.linkedin.com/in/lucas-amorim-silva
      
 
 <!---
